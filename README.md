@@ -1,2 +1,3 @@
 # hello-world
-First Github
+
+Yeah! This is my first Github! ^_^
